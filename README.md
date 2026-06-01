@@ -8,8 +8,7 @@ A Arduino bot which follows a specified track while avoiding obstacles and parks
 #### Description:
 
 
-**Hi,** I am Hari
-And this is my CS50x final proeject about a Arduino Robot.
+
 
 The project I am submitting for my final project is a robot using the Arduino platform. The main goal of the project is to create a Robot which travels along a track while avoiding the boundaries and obstacles along the way, and park within the designated square. 
 The main Program is written in C using the Arduino IDE. The Program has custom functions to lower the load on the limited processing power of the uno.
@@ -52,7 +51,5 @@ All the items used in the project:-
 12) bread board for testing
 
 
-Special Thanks to:-
-1) Ajman University for the track
-2) CS50 subreddit for good learning sources.
+
 
