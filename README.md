@@ -2,9 +2,9 @@
 A Arduino bot which follows a specified track while avoiding obstacles and parks once it crosses a boundary box.
 
 #### Video Demo:  
-<video width="700" controls>
-  <source src="./parking_iot.mp4" type="video/mp4">
-</video>
+
+[▶ Watch the Demo Video](./parking_iot.mp4)
+
 #### Description:
 
 
